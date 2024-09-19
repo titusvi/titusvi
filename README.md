@@ -19,8 +19,8 @@ Welcome to my GitHub profile! 🌟
 #### Mobile-First Technologies
 ![Mobile-First Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
 
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres)
+#### Database
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,figma,,githubactions,gitlab)
