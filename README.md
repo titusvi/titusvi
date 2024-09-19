@@ -20,4 +20,4 @@ Welcome to my GitHub profile! 🌟
 ![Database & Tools](https://skillicons.dev/icons?i=postgres)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,idea,figma,,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,figma,,githubactions,gitlab)
