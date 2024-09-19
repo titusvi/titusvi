@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I'm currently developing a local community app Lokomu, with React Native and FastAPI.
+I'm currently developing a local community app [Lokomu](https://github.com/lokomu), with React Native and FastAPI.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
