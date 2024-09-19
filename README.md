@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Titas Virbickas! 👋
 
-<!--
-**titusvi/titusvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,html,css,tailwind)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=postgres)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,idea,figma,,githubactions,gitlab)
