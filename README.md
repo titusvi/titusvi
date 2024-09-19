@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-Currently developing projects in Python and React Native.
+I'm currently developing Lokomu, a local community app, with React Native and FastAPI.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
