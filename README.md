@@ -16,6 +16,9 @@ Welcome to my GitHub profile! 🌟
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker&perline=3)](https://skillicons.dev)
 
+#### Mobile-First Technologies
+![Mobile-First Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
+
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres)
 
