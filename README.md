@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I currently work with Python and React Native projects.
+Currently developing projects in Python and React Native.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
