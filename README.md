@@ -12,14 +12,14 @@ I'm currently developing a local community app [Lokomu](https://github.com/lokom
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,html,css,tailwind)
-
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)](https://skillicons.dev)
 
 #### Mobile Technologies
 ![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,html,css,tailwind)
 
 #### Database
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql)
