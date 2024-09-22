@@ -19,10 +19,10 @@ I'm currently developing a local community app [Lokomu](https://github.com/lokom
 ![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,html,css,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,html,css,tailwind)
 
 #### Database
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql)
+![Database & Tools](https://skillicons.dev/icons?i=postgres)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,figma,,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,idea,figma)
