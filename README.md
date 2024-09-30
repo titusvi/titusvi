@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🌟
 
 I'm currently developing a local community app [Lokomu](https://github.com/lokomu), with React Native and FastAPI.
 
-I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Stiftelsen Acrius](https://github.com/StiftelsenAcrius)
+I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Stiftelsen Acrius](https://github.com/StiftelsenAcrius).
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
