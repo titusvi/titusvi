@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! 🌟
 
+I love creating. I'm a painter and problem solver at heart, so I sometimes use coding as my canvas.
+
 I'm currently developing a local community app [Lokomu](https://github.com/lokomu), with React Native and FastAPI.
 
 I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Stiftelsen Acrius](https://github.com/StiftelsenAcrius).
