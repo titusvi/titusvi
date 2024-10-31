@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I love creating. I'm a painter and problem solver at heart, so I sometimes use coding as my canvas.
+I love creating. I'm a painter and problem solver, so I sometimes use coding as my canvas.
 
 I'm currently developing a local community app [Lokomu](https://github.com/lokomu), with React Native and FastAPI.
 
