@@ -14,7 +14,7 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Sti
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js,cpp,c)
+![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)](https://skillicons.dev)
@@ -23,10 +23,7 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Sti
 ![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,html,css,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,tailwind)
 
 #### Database
 ![Database & Tools](https://skillicons.dev/icons?i=postgres)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode,idea,figma)
