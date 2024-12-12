@@ -14,7 +14,7 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Sti
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js)
+![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js,cpp)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)](https://skillicons.dev)
