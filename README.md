@@ -17,13 +17,16 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO) and [Sti
 ![Languages](https://skillicons.dev/icons?i=python,ts,kotlin,java,js,cpp)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)](https://skillicons.dev)
+![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)
 
 #### Mobile Technologies
-![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
+![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,tailwind,css,html)
 
-#### Database
-![Database & Tools](https://skillicons.dev/icons?i=postgres)
+#### Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mysql)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,gitlab)
