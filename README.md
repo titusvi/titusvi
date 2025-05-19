@@ -23,10 +23,7 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO), [Stifte
 ![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,tailwind,css,html)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,tailwind)
 
 #### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mysql)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,gitlab)
+![Databases](https://skillicons.dev/icons?i=postgres)
