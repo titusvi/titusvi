@@ -17,11 +17,11 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO), [Stifte
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)
 
-#### Mobile Technologies
-![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo)
-
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,tailwind)
+
+#### Mobile Technologies
+![Mobile Technologies](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo)
 
 #### Databases
 ![Databases](https://skillicons.dev/icons?i=postgres)
