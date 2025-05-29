@@ -12,7 +12,7 @@ I'm also developing projects for [Aither](https://github.com/Aither-NO), [Stifte
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,ts,java,kotlin)
+![Languages](https://skillicons.dev/icons?i=python,ts,java,kotlin,js)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=fastapi,spring,docker)
