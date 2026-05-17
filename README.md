@@ -2,7 +2,7 @@
 
 I love creating and innovating. I'm a painter, so I sometimes use code as my canvas.
 
-I'm currently developing a local community app [Lokomu](https://github.com/lokomu).
+I'm currently developing many startups through my agency [Amatium](https://github.com/amatium) and a local community startup [Lokomu](https://github.com/lokomu).
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
