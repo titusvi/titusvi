@@ -1,4 +1,4 @@
-# Hi, I'm Titas!
+# Hi, I'm Titus!
 
 I love creating and innovating. I'm a painter, so I sometimes use code as my canvas.
 
