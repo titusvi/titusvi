@@ -2,7 +2,7 @@
 
 I love creating and innovating. I'm a painter, so I sometimes use code as my canvas.
 
-I'm currently developing [PrefabFind](https://prefabfind.com/en) many other startups through my agency [Amatium](https://amatium.com/en) and a local community startup [Lokomu](https://lokomu.com).
+I'm currently developing [PrefabFind](https://prefabfind.com/en), and many other startups through my agency [Amatium](https://amatium.com/en). Also developing a hyperlocal community app [Lokomu](https://lokomu.com).
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/titas-virbickas)
